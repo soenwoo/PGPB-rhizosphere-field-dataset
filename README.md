@@ -40,7 +40,7 @@ The dataset was generated from field-scale experiments assessing rhizosphere mic
 #### **soil_physicochemical**  
 - **Files**: `total_soil_1st.csv`, `total_soil_2nd.csv`  
 - **Description**: Soil physicochemical properties measured at 1st and 2nd sampling events.  
-- **Columns**: Crop type, site ID, treatment (control/treatment), replicate, and soil physicochemical variables (`pH`, `EC`, `OM`, `P<sub>2</sub>O<sub>5</sub>`,`NO<sub>3</sub>-N`,`K`, `Ca`, `Mg`, `Na`)
+- **Columns**: Crop type, site ID, treatment (control/treatment), replicate, and soil physicochemical variables (pH, EC, OM, P<sub>2</sub>O<sub>5</sub>,NO<sub>3</sub>-N, K, Ca, Mg, Na)
 
 ---
 
