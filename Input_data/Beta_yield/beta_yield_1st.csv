@@ -1,0 +1,24 @@
+"","site_ID","plant","beta_p_value","yield_change"
+"1","AB","mallow",0.002,18
+"2","AC","green lettuce",0.079,11
+"3","AD","romain",0.003,41
+"4","AE","kale",0.006,14
+"5","CK1","kale",0.001,-6
+"6","CL1","green lettuce",0.001,22
+"7","EC6","mallow",0.001,-10
+"8","EC7","mallow",0.003,6
+"9","EC8","mallow",0.053,2
+"10","EK1","kale",0.001,152
+"11","EK2","kale",0.002,5
+"12","EK3","kale",0.001,5
+"13","EK4","kale",0.001,29
+"14","EL1","red lettuce",0.001,18
+"15","EL10","green lettuce",0.027,8
+"16","EL11","green lettuce",0.119,-3
+"17","EL3","romain",0.002,10
+"18","EL4","green lettuce",0.001,21
+"19","EL5","red lettuce",0.021,10
+"20","EL6","green lettuce",0.001,10
+"21","EL7","red lettuce",0.001,-5
+"22","EL8","red lettuce",0.002,3
+"23","EL9","red lettuce",0.001,-27
