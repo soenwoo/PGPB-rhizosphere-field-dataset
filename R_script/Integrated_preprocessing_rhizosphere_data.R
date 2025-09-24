@@ -5,7 +5,7 @@
 
 # =========================================================
 # Integrated Preprocessing Code
-# This code should be run before any analyses such as fig4, fig5, and fig6.
+# This code should be run before any analyses such as fig4, fig5, and fig7.
 # It preprocesses and filters the data to prepare it for further analysis.
 # Please run this code first before starting any specific analysis.
 # =========================================================
